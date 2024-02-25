@@ -1,0 +1,176 @@
+.navbar img {
+    width: 50px;
+    height: 40px;
+}
+
+.con {
+    justify-content: space-between;
+}
+
+.con .collapse {
+    margin-left: 60%;
+  }
+
+.con .btn img {
+    width: 30px;
+    height: 30px;
+}
+.con .btn {
+    background-color: #ff385c;
+}
+
+
+@media screen  and (max-width: 933px){
+    .con .collapse {
+        margin-left: 0%;
+        margin-top: 20px;
+      }
+}
+
+
+
+.first-grid img {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.container, .container-1 {
+    margin-top: 10%;
+}
+.mart {
+    margin-top: 50px;
+}
+.mart input {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 20px;
+    border-radius: 40px;
+    padding: 10px 10px;
+}
+
+
+.mart h1 {
+    color: #ff385c;
+    font-size: 55px;
+}
+.mart h2 {
+    font-size: 45px;
+}
+.mart span {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.mart p a {
+    color: grey;
+}
+.mart a {
+    color: gray;
+}
+@media screen and (max-width: 515px){
+    .first-grid img {
+        width: 350px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .container-1 img {
+        height: 200px;
+        
+    }
+
+
+}
+
+
+.container-1 img {
+   margin: 60px 0;
+   
+}
+
+.col h3 {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+@media screen and (max-width: 430px){
+    .second-row .met {
+        background-color: #ff385c;
+        margin-top: 20px ;
+        padding-top: 20px;
+
+
+       
+    }
+   .fourth-row img {
+    width: 400px;
+    margin-bottom: 30px;
+   }
+    .second-row .met h3 {
+        color: aliceblue;
+    }
+    .second-row {
+        margin-bottom: 40px;
+    }
+
+    .fourth-row {
+        margin-bottom: 40px;
+    }
+}
+
+
+
+
+.third-row p {
+    color: #ff385c;
+    margin-top: 5px;
+}
+
+.third-row small {
+    color: grey;
+}
+
+.third-row img {
+    border-radius: 10px;
+}
+
+.third-row h5 {
+    color: grey;
+}
+
+ .h1 {
+    font-size: 50px !important;
+    margin-bottom: 25px !important;
+}
+
+.fourth-row img {
+    width: 400px;
+}
+.fourth-row {
+    justify-content: space-around;
+}
+
+
+.first-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.fifth-row {
+    justify-content: space-between;
+    margin-top: 20px !important;
+    width: 100%;
+}
+.fifth-row  img{
+   width: 25px;
+   height: 25px;
+}
+
+.first-list li {
+    margin-left: 10px;
+}
+
+.fifth-row a {
+    text-decoration: none;
+    color: black;
+}
